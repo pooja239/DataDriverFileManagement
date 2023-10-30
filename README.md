@@ -5,10 +5,10 @@ Content
 
 - Text files for project - zip file containing the data files. Each data file starts with "ff_xxxx" and it contains information in 4 lines as below:
 
-yyyy-mm-dd__
-Day__
-Town name__
-population value__
+yyyy-mm-dd <br />
+Day <br />
+Town name <br />
+population value <br />
 
 - makeStructure_PoojaGupta.py - This code read the data files in the flat structure directory, creates a tree structure directory as year->month->day and copy the data file in the appropriate directory.
 

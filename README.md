@@ -1,7 +1,7 @@
 # DataDriverFileManagement
 
 
-Content
+**Content**
 
 - Text files for project - zip file containing the data files. Each data file starts with "ff_xxxx" and it contains information in 4 lines as below:
 
@@ -20,6 +20,6 @@ population value <br />
 
 - statPopnTown_PoojaGupta.py - This code reporting population statistics by town provided by the user using index file information
 
-Instructions to execute:
+**Instructions to execute**
 1) Unzip the "text file for project" and copy the data files in C:\User\<username>\Python_Data\filesToSort in Windows or User\Python_Data\filesToSort
 2) Download the python files and execute
